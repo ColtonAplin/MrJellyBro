@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrJellyBro
+- 👋 Hi, I’m @Colton Aplin
 - 👀 I’m interested in ...Open Source Learning and Projects. Making connections!
 - 🌱 I’m currently learning ...How to make wesites. I created a AiChatBot last week with some self study. (Very New)
 - 💞️ I’m looking to collaborate on ...Anything and everyhthing. I'm looking to get experience and make connections.
